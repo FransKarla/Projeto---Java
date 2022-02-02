@@ -35,6 +35,12 @@ public class Teste {
             case 5:
                 System.out.printf("%.2f" + " PB", indice);
                 break;
+            case 6:
+                System.out.printf("%.2f" + " ZB", indice);
+                break;
+            case 7:
+                System.out.printf("%.2f" + " YB", indice);
+                break;
             default:
                 break;
         }
